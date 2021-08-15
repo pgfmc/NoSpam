@@ -1,6 +1,6 @@
-name: SaveTest
-version: 3.0.0
-api-version: 1.16
+name: NoSpam
+version: 4.0.0
+api-version: 1.17
 author: bk
-main: net.pgfmc.savetest.Main
-description: Tests YAML save file thing
+main: net.pgfmc.nospam.Main
+description: Stops spam
